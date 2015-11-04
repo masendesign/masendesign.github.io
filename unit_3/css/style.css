@@ -1,7 +1,31 @@
 body {
+	background-color:#3a3a3a;
+}
+h1{
+	color:#fff;
+	font-family: Helvetica, sans-serif;
+	font-size: 45pt;
+	font-weight: bold;
+}
+h2{
+	color:#92a1bc;
+	font-family: Helvetica, sans-serif;
+}
+p {
+	color:#e0e0e7;
+	font-family: Helvetica, sans-serif;
+}
+.thumbnails {
+
+}
+#header-home {
 	background-image: url(http://masendesign.github.io/unit_3/images/workspace2.jpg);
-	/*background-size: cover;*/
+	background-size: cover;
+	text-align: center;
+}
+#footer {
+
 }
 #slogan {
-
+	font-style: italic;
 }

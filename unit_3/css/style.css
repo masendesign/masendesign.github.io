@@ -17,6 +17,12 @@ p {
 	color:#e0e0e7;
 	font-family: 'Lato', sans-serif;
 }
+ul {
+	display: inline;
+}
+li {
+	display: inline;
+}
 .thumbnails {
 
 }
